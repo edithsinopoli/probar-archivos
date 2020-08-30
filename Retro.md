@@ -3,8 +3,7 @@
 
 <h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: Breve Retrospectiva:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
 
-<a href="/Retro.png" width=100% heigth=100%>Metodo Estrella</a>
-
+<a href="/Retro.png" width=80% heigth=80%>Metodo Estrella</a>
 
 
  
