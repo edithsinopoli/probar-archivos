@@ -40,7 +40,7 @@
 
 <h2>&#x1f4c2 Wireframe</h2>
 <ul>
- <li><a href="/probar-archivos/Retro.png">Metodo Estrella</a></li>
+ <li><a href="/Retro.png">Metodo Estrella</a></li>
  <li><a href="/wireframe/Detalle del producto.png">Detalle del producto</a></li>
  <li><a href="/wireframe/Carrito de Compras.png">Carrito de Compras</a></li>
  <li><a href="/wireframe/FormularioDeRegistro.png">Formulario de registro</a></li>
